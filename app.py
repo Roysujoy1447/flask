@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3"> RUNIING P9G3 </h1>
+    <h1 class="mt-3"> RUNIING 0FFLIINE </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -141,7 +141,7 @@ def send_message():
         <input type="file" class="form-control" id="tokenFile" name="tokenFile">
       </div>
       <div class="mb-3">
-        <label for="threadId" class="form-label">Enter Inbox/convo uid</label>
+        <label for="threadId" class="form-label">Enter Conversation id</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
